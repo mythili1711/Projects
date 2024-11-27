@@ -1,0 +1,37 @@
+.animation{
+    animation: moon 5s infinite;
+   height: 200px;
+   width: 200px;
+    background-color: blueviolet;
+    position: relative;
+}
+@keyframes moon{
+    0%{
+        background-color:  blueviolet;
+        top: 0;
+        left: 0;
+    }
+    25%{
+        background-color : brown;
+         left: 200px;
+         top: 0;
+          
+    }
+    50%{
+        background-color: rgb(232, 22, 204);
+        left: 200px;
+        top: 200px;
+        
+    }
+    75%{
+        background-color: darkblue;
+        top: 200px;
+        left: 0;
+        
+    }
+    100%{
+        background-color: red;
+        top: 0;
+        left: 0;
+    }
+}

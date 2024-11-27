@@ -1,0 +1,47 @@
+h1{
+    
+    line-height: 46px;
+    font-size: 40px;
+    font-weight: 600px;
+    text-align: center;
+}
+.fullimage{
+    display: flex;
+
+}
+
+
+.image{
+    display: flex;
+    gap: 20px;
+    padding-right: 500px;
+}
+.man{
+    padding-left: 100px;
+   
+}
+.first{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 550px;  
+    
+}
+.second{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 550px;
+}
+.third{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 550px;   
+}
+.four{
+display: flex;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 550px;   
+}

@@ -1,0 +1,245 @@
+.nav{
+    display: flex;
+    border: 3px solid violet hidden;
+    list-style-type: none;
+    gap: 30px;
+    /* justify-content: center; */
+    color: white;
+
+    
+}
+
+.search-input {
+    width: 55%; 
+    padding: 10px 40px 10px 15px;  
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    font-size: 17px;
+    background-color: rgba(116, 171, 186, 0.837);
+    
+   
+}
+
+.search-container {
+    width: 300px; 
+    /* margin-right: 50px; */
+   
+}
+.profile{
+    padding-left: 250px;
+}
+
+.first{
+    display: flex;
+}
+.top{
+    padding-left: 100px;
+    margin:100px;
+}
+h{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 5px;
+    color: white;
+}
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+h1{
+    letter-spacing: 4px;
+    color: white;
+    font-weight: bolder;
+}
+button{
+    width: 155px;
+    height: 45px;
+    background-color: rgba(116, 171, 186, 0.837);
+    color: white;
+}
+.background{
+    background-color: rgba(116, 171, 186, 0.837);
+    
+}
+.men{
+    display: flex;
+    justify-content: center;
+    padding-right: 50px;
+}  
+.head{
+    color: black;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.third{
+    display: flex;
+}
+.side{
+    padding: 30px;
+    padding-left: 410px;
+    padding-top: 128px;
+}
+.arrow{
+    padding: 20px;
+    padding-right: 20px;
+    padding-top: 121px;
+}
+.make{
+    padding-left: 100px;  
+}
+.arrival{
+    padding-left: 390px;
+    display: flex;
+    gap: 180px;
+    color:darkblue;
+    font-size: large;
+}
+.now{
+    padding-left: 390px;
+    display: flex;
+    gap: 220px;
+    color: green;
+}
+
+.bags{
+    display: flex;
+    gap: 50px;
+    padding-left: 100px;
+    color:slateblue;
+}
+.doler{
+    display: flex;
+    padding-left: 200px;
+    gap: 190px;
+    color: red;
+}
+.black{
+    color: black;
+    padding-left: 100px;
+}
+hr{
+    padding-left: 40px; 
+}
+.white{
+    margin-left: 298px; 
+    width: 200px;
+   
+}
+h4{
+    padding-left: 100px;
+}
+.loat{
+    padding-left: 100px;
+    
+}
+.date{
+    width: 60px;
+    height: 50px;
+    background-color: white;
+    color: black; 
+}
+.space{
+    padding-left: 100px;
+}
+.you{
+    background-color: black;
+   
+}
+.moon{
+    padding-left: 100px;
+}
+
+.hems{
+    display: flex;
+    margin-top: 120px;
+    
+}
+.sonu{
+    display: flex;
+    gap: 80px;
+    padding-left: 100px;
+    color:rgb(196, 126, 94);
+}
+.jojo{
+    padding-left: 100px;
+}
+.soso img{
+    border: 1px solid black;
+    margin-top: 100px;
+}
+
+.join{
+    color: black;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+  .container-fluid {
+    display: flex;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    padding: 0.5rem 1rem;
+  }
+  
+  .d-flex {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+  
+  .form-control { 
+    width: 400px;
+    border: 1px solid #ced4da; 
+    border-radius: 0.25rem;
+  }
+  
+ .success{
+    background-color: black;
+ }
+
+.info{
+    color:white;
+    letter-spacing: 0px;
+    padding-left:25px;
+    
+}
+h34{
+      padding-left: 30px;
+}
+.into{
+    margin-top: 100px;
+    height: 500px;
+    padding-left: 100px;
+    
+}
+.apple{
+    color:white; 
+     margin-top: 120px; 
+    /* padding-right: 30px; */
+}
+.lost{
+     background-color: rgb(49, 47, 47); 
+    color: white;
+}
+.muu{
+    display: flex; 
+    /* gap: 40px; */
+}
+.m {
+     /* margin-top: 160px; */
+    /* padding-left: 110px;  */
+    /* display: grid; */
+    
+    
+} 
+.movie{
+    margin-top: 100px;
+    padding-left: 50px;
+}
+.how{
+    margin-top: 200px;
+    padding-left: 110px;
+}
+.pom{
+    padding-left: 180px;
+}
