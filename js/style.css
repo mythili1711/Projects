@@ -1,0 +1,35 @@
+.container{
+    text-transform:lowercase;
+    font-style: italic;
+    list-style-position:outside;
+    line-height: 100px;
+    
+}
+ .lorem{
+    font-style: oblique;
+    text-transform: capitalize;
+    font-weight: bold;
+    text-decoration: underline;
+    list-style-position:inside ;
+}   
+.make{
+    font-style: normal;
+    text-transform: uppercase;
+}
+table,td,th{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+
+}
+.boader{
+    border: 3px solid black;
+    width: 500px;
+    margin: auto;
+}
+.body{
+    border: 3px solid black;
+    max-width:500px;
+    margin: auto;
+}

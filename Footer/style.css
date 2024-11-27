@@ -1,0 +1,9 @@
+
+.object{
+    display: flex;
+    border: 100px;
+    margin: 100px;
+    background-color: black;
+    color: white;
+ }   
+ 

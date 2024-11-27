@@ -1,0 +1,41 @@
+ul{
+    display: flex;
+    border: 3px solid black;
+}
+li{
+    padding-left: 50px;
+    list-style: none;
+    font-family: cursive;
+ 
+}
+li:hover{
+    color: brown;
+    background-color: teal;
+    
+}
+.box{
+    display: flex;
+    padding-right: 100px;
+    font-family: cursive;
+}
+.moon{
+    color: chocolate;
+    font-family: cursive;
+}
+.star{
+    font-family: cursive;
+    color: violet;
+}
+.move{
+    display: flex;
+    padding-right: 100px;
+    font-family: cursive;
+}
+@media(max-width:468px){
+    .box{
+        display: block;
+    }
+    .move{
+        display: block;
+    }
+}
